@@ -2,3 +2,4 @@
 - 2024-01-07 13:35:00: chore(quant): add GPTQ support (2/5)
 - 2024-01-07 19:53:09: feat(speculative): add acceptance threshold tuning (3/5)
 - 2024-01-07 12:29:35: refactor(kv-cache): multi-tenant isolation (4/5)
+- 2024-01-07 13:49:50: test(benchmark): latency percentiles (p50/p99) (5/5)
