@@ -1,0 +1,32 @@
+version: "3.8"
+
+services:
+  inference-opt:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: inference-opt
+    ports:
+      - "8003:8003"
+    environment:
+      - LOG_LEVEL=INFO
+      - DEVICE=cuda
+      - DTYPE=float16
+    volumes:
+      - ./models:/app/models
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8003/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+volumes:
+  models:
