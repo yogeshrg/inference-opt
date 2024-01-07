@@ -1,1 +1,2 @@
 - 2024-01-07 23:18:28: fix(quant): calibrate with representative data (1/5)
+- 2024-01-07 13:35:00: chore(quant): add GPTQ support (2/5)
