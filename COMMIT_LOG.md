@@ -8,3 +8,4 @@
 - 2024-05-04 17:54:07: test(kv-cache): add prefix caching (3/3)
 - 2024-09-21 09:35:37: fix(benchmark): cost per 1M tokens (1/3)
 - 2024-09-21 19:42:24: refactor(benchmark): add throughput benchmark (2/3)
+- 2024-09-21 21:34:30: fix(batching): dynamic batch sizing (3/3)
