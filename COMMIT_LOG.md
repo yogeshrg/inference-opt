@@ -6,3 +6,4 @@
 - 2024-05-04 18:28:29: refactor(kv-cache): implement LRU eviction (1/3)
 - 2024-05-04 21:38:08: refactor(benchmark): latency percentiles (p50/p99) (2/3)
 - 2024-05-04 17:54:07: test(kv-cache): add prefix caching (3/3)
+- 2024-09-21 09:35:37: fix(benchmark): cost per 1M tokens (1/3)
