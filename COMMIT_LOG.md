@@ -12,3 +12,4 @@
 - 2024-09-28 15:35:33: feat(batching): priority queue for requests (1/3)
 - 2024-09-28 23:28:54: fix(kv-cache): add disk offloading (2/3)
 - 2024-09-28 18:38:02: feat(speculative): add acceptance threshold tuning (3/3)
+- 2024-09-29 23:00:13: fix(batching): dynamic batch sizing (1/3)
