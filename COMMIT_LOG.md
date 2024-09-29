@@ -14,3 +14,4 @@
 - 2024-09-28 18:38:02: feat(speculative): add acceptance threshold tuning (3/3)
 - 2024-09-29 23:00:13: fix(batching): dynamic batch sizing (1/3)
 - 2024-09-29 15:58:15: chore(speculative): optimize verification step (2/3)
+- 2024-09-29 13:16:23: refactor(batching): priority queue for requests (3/3)
