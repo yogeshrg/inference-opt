@@ -16,3 +16,4 @@
 - 2024-09-29 15:58:15: chore(speculative): optimize verification step (2/3)
 - 2024-09-29 13:16:23: refactor(batching): priority queue for requests (3/3)
 - 2024-10-02 15:02:36: perf(batching): add continuous batching
+- 2025-02-08 19:11:48: test(batching): dynamic batch sizing (1/3)
