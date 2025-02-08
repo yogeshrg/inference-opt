@@ -17,3 +17,4 @@
 - 2024-09-29 13:16:23: refactor(batching): priority queue for requests (3/3)
 - 2024-10-02 15:02:36: perf(batching): add continuous batching
 - 2025-02-08 19:11:48: test(batching): dynamic batch sizing (1/3)
+- 2025-02-08 09:59:03: feat(benchmark): add throughput benchmark (2/3)
