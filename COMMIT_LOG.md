@@ -20,3 +20,4 @@
 - 2025-02-08 09:59:03: feat(benchmark): add throughput benchmark (2/3)
 - 2025-02-08 10:40:34: refactor(benchmark): cost per 1M tokens (3/3)
 - 2025-02-09 11:34:20: feat(kv-cache): implement LRU eviction (1/2)
+- 2025-02-09 10:59:27: chore(batching): update dependencies (2/2)
