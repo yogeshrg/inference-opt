@@ -23,3 +23,4 @@
 - 2025-02-09 10:59:27: chore(batching): update dependencies (2/2)
 - 2025-07-12 19:16:49: perf(quant): add AWQ quantization (1/3)
 - 2025-07-12 15:28:24: Revert "add AWQ quantization" (2/3)
+- 2025-07-12 19:40:00: chore(batching): add continuous batching (3/3)
