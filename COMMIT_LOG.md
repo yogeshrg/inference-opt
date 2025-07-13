@@ -27,3 +27,4 @@
 - 2025-07-13 23:06:32: test(benchmark): latency percentiles (p50/p99) (1/4)
 - 2025-07-13 12:49:16: feat(quant): accuracy regression tests (2/4)
 - 2025-07-13 23:13:44: Revert "dynamic batch sizing" (3/4)
+- 2025-07-13 22:36:42: feat(quant): add AWQ quantization (4/4)
