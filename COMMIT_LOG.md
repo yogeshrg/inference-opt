@@ -25,3 +25,4 @@
 - 2025-07-12 15:28:24: Revert "add AWQ quantization" (2/3)
 - 2025-07-12 19:40:00: chore(batching): add continuous batching (3/3)
 - 2025-07-13 23:06:32: test(benchmark): latency percentiles (p50/p99) (1/4)
+- 2025-07-13 12:49:16: feat(quant): accuracy regression tests (2/4)
