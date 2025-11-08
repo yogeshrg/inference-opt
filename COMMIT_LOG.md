@@ -30,3 +30,4 @@
 - 2025-07-13 22:36:42: feat(quant): add AWQ quantization (4/4)
 - 2025-11-08 18:05:53: test(batching): add continuous batching (1/4)
 - 2025-11-08 10:46:04: perf(speculative): optimize verification step (2/4)
+- 2025-11-08 12:58:02: test(benchmark): cost per 1M tokens (3/4)
