@@ -29,3 +29,4 @@
 - 2025-07-13 23:13:44: Revert "dynamic batch sizing" (3/4)
 - 2025-07-13 22:36:42: feat(quant): add AWQ quantization (4/4)
 - 2025-11-08 18:05:53: test(batching): add continuous batching (1/4)
+- 2025-11-08 10:46:04: perf(speculative): optimize verification step (2/4)
