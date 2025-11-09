@@ -33,3 +33,4 @@
 - 2025-11-08 12:58:02: test(benchmark): cost per 1M tokens (3/4)
 - 2025-11-08 12:57:49: refactor(benchmark): latency percentiles (p50/p99) (4/4)
 - 2025-11-09 17:00:42: test(benchmark): add throughput benchmark (1/5)
+- 2025-11-09 18:42:55: refactor(speculative): implement draft model loading (2/5)
