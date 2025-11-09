@@ -35,3 +35,4 @@
 - 2025-11-09 17:00:42: test(benchmark): add throughput benchmark (1/5)
 - 2025-11-09 18:42:55: refactor(speculative): implement draft model loading (2/5)
 - 2025-11-09 13:23:14: fix(quant): accuracy regression tests (3/5)
+- 2025-11-09 23:02:02: refactor(kv-cache): multi-tenant isolation (4/5)
